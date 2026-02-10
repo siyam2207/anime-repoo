@@ -152,10 +152,10 @@
   {
     "name": "Aniyomi: Eporner",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.eporner",
-    "apk": "aniyomi-all.eporner-v14.21.apk",
+    "apk": "aniyomi-all.eporner-v14.25.apk",
     "lang": "all",
-    "code": 21,
-    "version": "14.21",
+    "code": 25,
+    "version": "14.25",
     "nsfw": 1,
     "sources": [
       {
