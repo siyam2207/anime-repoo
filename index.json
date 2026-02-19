@@ -152,10 +152,10 @@
   {
     "name": "Aniyomi: Eporner",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.eporner",
-    "apk": "aniyomi-all.eporner-v14.29.apk",
+    "apk": "aniyomi-all.eporner-v14.1.apk",
     "lang": "all",
-    "code": 29,
-    "version": "14.29",
+    "code": 1,
+    "version": "14.1",
     "nsfw": 1,
     "sources": [
       {
@@ -818,23 +818,6 @@
         "lang": "all",
         "id": "7490206640756700883",
         "baseUrl": "https://torrentio.strem.fun"
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Xmovix",
-    "pkg": "eu.kanade.tachiyomi.animeextension.all.xmovix",
-    "apk": "aniyomi-all.xmovix-v14.1.apk",
-    "lang": "all",
-    "code": 1,
-    "version": "14.1",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Xmovix",
-        "lang": "en",
-        "id": "6799664897603024834",
-        "baseUrl": "https://hd.xmovix.net"
       }
     ]
   },
