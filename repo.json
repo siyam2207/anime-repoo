@@ -1,8 +1,9 @@
 {
     "meta": {
-      "name": "Yūzōnō",
-      "shortName": "Yūzōnō",
-      "website": "https://github.com/yuzono/aniyomi-extensions",
-      "signingKeyFingerprint": "cbec121aa82ebb02aaa73806992e0368a97d47b5451ed6524816d03084c45905"
+      "name": "Siyam",
+      "shortName": "Siyam",
+      "website": "https://github.com/siyam2207/aniyomi-extensions",
+      "signingKeyFingerprint": "5D9CF3F1658911729EF9DA6631BC2D69071579FE"
     }
   }
+
