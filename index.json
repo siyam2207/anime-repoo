@@ -2318,6 +2318,23 @@
     ]
   },
   {
+    "name": "Aniyomi: Xmovix",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.xmovix",
+    "apk": "aniyomi-en.xmovix-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Xmovix",
+        "lang": "en",
+        "id": "6799664897603024834",
+        "baseUrl": "https://hd.xmovix.net"
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: XPrime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.xprime",
     "apk": "aniyomi-en.xprime-v14.1.apk",
