@@ -2148,6 +2148,23 @@
     ]
   },
   {
+    "name": "Aniyomi: StreamPorn",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.streamporn",
+    "apk": "aniyomi-en.streamporn-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "StreamPorn",
+        "lang": "en",
+        "id": "7525981291685235391",
+        "baseUrl": "https://streamporn.nl"
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: SuperStream",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.superstream",
     "apk": "aniyomi-en.superstream-v14.11.apk",
