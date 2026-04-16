@@ -2182,6 +2182,23 @@
     ]
   },
   {
+    "name": "Aniyomi: TnaFlix",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.tnaflix",
+    "apk": "aniyomi-en.tnaflix-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "TnaFlix",
+        "lang": "en",
+        "id": "4779726797694515542",
+        "baseUrl": "https://www.tnaflix.com"
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Tokuzilla",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.tokuzilla",
     "apk": "aniyomi-en.tokuzilla-v14.27.apk",
