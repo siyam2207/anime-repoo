@@ -2063,6 +2063,23 @@
     ]
   },
   {
+    "name": "Aniyomi: NoodleMagazine",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.noodlemagazine",
+    "apk": "aniyomi-en.noodlemagazine-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "NoodleMagazine",
+        "lang": "en",
+        "id": "2987414264306369372",
+        "baseUrl": "https://noodlemagazine.com"
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Oppai Stream",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.oppaistream",
     "apk": "aniyomi-en.oppaistream-v14.6.apk",
