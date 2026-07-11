@@ -344,6 +344,23 @@
     ]
   },
   {
+    "name": "Aniyomi: MyGdindex",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.mygdindex",
+    "apk": "aniyomi-all.mygdindex-v14.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MyGdindex",
+        "lang": "all",
+        "id": "1135870548086686610",
+        "baseUrl": ""
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: MyReadingManga",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.myreadingmanga",
     "apk": "aniyomi-all.myreadingmanga-v14.2.apk",
@@ -2365,23 +2382,6 @@
         "lang": "en",
         "id": "648702763126013078",
         "baseUrl": "https://www.wco.tv"
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Xhamster",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.xhamster",
-    "apk": "aniyomi-en.xhamster-v14.1.apk",
-    "lang": "en",
-    "code": 1,
-    "version": "14.1",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Xhamster",
-        "lang": "en",
-        "id": "3805993004727843738",
-        "baseUrl": "https://xhamster.com"
       }
     ]
   },
