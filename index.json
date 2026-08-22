@@ -169,10 +169,10 @@
   {
     "name": "Aniyomi: Google Drive",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.googledrive",
-    "apk": "aniyomi-all.googledrive-v14.19.apk",
+    "apk": "aniyomi-all.googledrive-v14.20.apk",
     "lang": "all",
-    "code": 19,
-    "version": "14.19",
+    "code": 20,
+    "version": "14.20",
     "nsfw": 0,
     "sources": [
       {
@@ -1861,10 +1861,10 @@
   {
     "name": "Aniyomi: Kayoanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.kayoanime",
-    "apk": "aniyomi-en.kayoanime-v14.12.apk",
+    "apk": "aniyomi-en.kayoanime-v14.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "14.12",
+    "code": 13,
+    "version": "14.13",
     "nsfw": 0,
     "sources": [
       {
@@ -3993,10 +3993,10 @@
   {
     "name": "Aniyomi: desu-online",
     "pkg": "eu.kanade.tachiyomi.animeextension.pl.desuonline",
-    "apk": "aniyomi-pl.desuonline-v14.11.apk",
+    "apk": "aniyomi-pl.desuonline-v14.12.apk",
     "lang": "pl",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "14.12",
     "nsfw": 0,
     "sources": [
       {
@@ -4010,10 +4010,10 @@
   {
     "name": "Aniyomi: Docchi",
     "pkg": "eu.kanade.tachiyomi.animeextension.pl.docchi",
-    "apk": "aniyomi-pl.docchi-v14.9.apk",
+    "apk": "aniyomi-pl.docchi-v14.10.apk",
     "lang": "pl",
-    "code": 9,
-    "version": "14.9",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 1,
     "sources": [
       {
@@ -4129,10 +4129,10 @@
   {
     "name": "Aniyomi: Animes CX",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animescx",
-    "apk": "aniyomi-pt.animescx-v14.2.apk",
+    "apk": "aniyomi-pt.animescx-v14.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 1,
     "sources": [
       {
@@ -4384,10 +4384,10 @@
   {
     "name": "Aniyomi: Doramogo",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.doramogo",
-    "apk": "aniyomi-pt.doramogo-v14.11.apk",
+    "apk": "aniyomi-pt.doramogo-v14.12.apk",
     "lang": "pt-BR",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "14.12",
     "nsfw": 0,
     "sources": [
       {
@@ -4526,10 +4526,10 @@
   {
     "name": "Aniyomi: AnimeBalkan",
     "pkg": "eu.kanade.tachiyomi.animeextension.sr.animebalkan",
-    "apk": "aniyomi-sr.animebalkan-v14.8.apk",
+    "apk": "aniyomi-sr.animebalkan-v14.9.apk",
     "lang": "sr",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 0,
     "sources": [
       {
@@ -4679,10 +4679,10 @@
   {
     "name": "Aniyomi: Türk Anime TV",
     "pkg": "eu.kanade.tachiyomi.animeextension.tr.turkanime",
-    "apk": "aniyomi-tr.turkanime-v14.45.apk",
+    "apk": "aniyomi-tr.turkanime-v14.46.apk",
     "lang": "tr",
-    "code": 45,
-    "version": "14.45",
+    "code": 46,
+    "version": "14.46",
     "nsfw": 0,
     "sources": [
       {
