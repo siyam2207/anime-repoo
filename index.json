@@ -805,6 +805,23 @@
     ]
   },
   {
+    "name": "Aniyomi: Telegram Bridge",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.telegrambridge",
+    "apk": "aniyomi-all.telegrambridge-v14.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Telegram Bridge",
+        "lang": "all",
+        "id": "7182064426321039081",
+        "baseUrl": "http://127.0.0.1:8080"
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Torrentio (Torrent / Debrid)",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.torrentio",
     "apk": "aniyomi-all.torrentio-v14.5.apk",
